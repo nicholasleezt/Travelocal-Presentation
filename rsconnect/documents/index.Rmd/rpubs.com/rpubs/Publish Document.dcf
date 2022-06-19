@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/912363/62423025a416454299171f0be729feee
+bundleId: https://api.rpubs.com/api/v1/document/912363/62423025a416454299171f0be729feee
+url: http://rpubs.com/nicholasleezt/912363
+when: 1655301332.70937
+lastSyncTime: 1655301332.70939
